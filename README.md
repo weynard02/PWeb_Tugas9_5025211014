@@ -1,6 +1,6 @@
 # PWeb_Tugas7_5025211014
 
-## Pembuatan CRUD Pendaftaran Siswa dengan implementasi PHP
+## Pembuatan CRUD Pendaftaran Mahasiswa dengan Upload foto
 ```
 Nama: Alexander Weynard Samsico
 NRP: 5025211014
